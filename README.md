@@ -6,4 +6,4 @@ This is website about Spider-man and his friends
 Introduction to My first Website..
 
 
-If You want to watch my first website, You should download these codes Then You can watch it , Good Luck ;)
+If You want to watch my first website, You should download these codes. Then You can watch it , Good Luck ;)
