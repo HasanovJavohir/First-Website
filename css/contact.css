@@ -1,0 +1,67 @@
+.contact {
+    padding: 6.25rem 1.25rem;
+}
+
+textarea, input {
+    width: 100%;
+    margin-top: 1.25rem;
+    padding: 0.625rem;
+    margin-bottom: 0.25rem;
+    border: 1px solid #f0e9ff;
+    border-radius: 5px;
+    padding-left: 1.12rem;
+    font-size: 0.81rem;
+    color: rgb(60, 51, 51);
+    background: transparent;
+}
+
+textarea:focus,
+input:focus {
+    outline: 0;
+}
+
+.half-flex {
+    display: flex;
+}
+
+.contact__firstname {
+    padding-right: 1.875rem;
+    flex: 1;
+}
+.contact__email {
+    padding-left: 1.875rem;
+    flex: 1;
+}
+
+.contact__send {
+    margin-top: 1.25rem;
+}
+
+
+.fa-brands.fa-telegram:hover {
+    color: #0088CC;
+}
+
+.fab.fa-instagram:hover {
+    color: #DD2a7B;
+}
+
+.fa-brands.fa-linkedin:hover {
+    color: #0077B5;
+}
+
+.fa-brands.fa-github-square:hover {
+    color: black;
+}
+
+
+@media only screen and (max-width: 991px) {
+    .half-flex {
+        flex-direction: column;
+    }
+
+    .contact__firstname,
+    .contact__email {
+        padding: 0;
+    }
+}
