@@ -10,4 +10,4 @@ If You want to watch my first website, You should download these codes. Then You
 
 I have not got DOMEN. But, I have made link for my website from https://app.netlify.com/
 
-Link:  This is my first website
+Link:  https://javohirhasanovhtmlcssproject.netlify.app  
