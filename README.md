@@ -7,3 +7,7 @@ Introduction to My first Website..
 
 
 If You want to watch my first website, You should download these codes. Then You can watch it , Good Luck ;)
+
+I have not got DOMEN. But, I have made link for my website from https://app.netlify.com/
+
+Link:  This is my first website
